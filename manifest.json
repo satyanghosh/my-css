@@ -1,0 +1,13 @@
+﻿{
+  "name": "Web Carousel",
+  "short_name": "Carousel",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#c8a279",
+  "icons": [
+    {
+      "src": "https://developers.google.com/_static/19aa27122b/images/touch-icon.png"
+    }
+  ]
+}
